@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:autocomplete_text_form_field/autocomplete_text_form_field.dart';
+import 'package:autocomplete_text_form_field/autocomplete_form_field.dart';
 
 void main() {
   test('adds one to input values', () {
